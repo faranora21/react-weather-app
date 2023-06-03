@@ -9,3 +9,7 @@
   margin: 20px 0;
 }
 
+.weatherDescription{
+  text-transform: capitalize;
+}
+
